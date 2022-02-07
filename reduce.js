@@ -8,6 +8,6 @@
 const group = (data, property) => {
     return data.reduce((accumulator, item) =>{
         const value = item[property];
-        if(!accumulator.hasOwnPro)
+        if(!accumulator.hasOwnProg)
     })
 }
